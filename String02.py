@@ -6,5 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    return s.upper()
+a=str(input())
+print(main(a))
