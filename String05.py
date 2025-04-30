@@ -7,4 +7,6 @@ def main(s):
         str: answer
     """
     
-    return
+    return s.title()
+a=str(input())
+print(main(a))
